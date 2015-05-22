@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/queen_attack_module.git"]
+	path = sites/all/modules/queen_attack_module.git
+	url = https://github.com/pfiore/queen_attack_module.git
