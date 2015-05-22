@@ -4,3 +4,6 @@
 [submodule "shift_cipher_module"]
 	path = shift_cipher_module
 	url = https://github.com/pfiore/shift_cipher_module.git
+[submodule "sites/all/modules/cipher"]
+	path = sites/all/modules/cipher
+	url = https://github.com/pfiore/shift_cipher_module.git
