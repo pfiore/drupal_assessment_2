@@ -1,3 +1,13 @@
+DATA BASE:
+-------------------
+patrick_cipher
+
+ADMIN:
+-------------------
+
+name: epicodus
+password: epicodus
+
 
 CONTENTS OF THIS FILE
 ---------------------
